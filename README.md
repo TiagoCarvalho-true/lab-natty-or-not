@@ -12,8 +12,8 @@ uma musica de rock com um tema bem especifico,
 
 
 ## 🤖 Tecnologias Utilizadas
-chat gpt - para a letra 
-suno ia -  para a musica
+.chat gpt - para a letra 
+.suno ia -  para a musica
 
 ## 🧐 Processo de Criação
 Preciso ser sincero esse é o desafio mais divertido que ja fiz pela dio então lá vamos nós.
